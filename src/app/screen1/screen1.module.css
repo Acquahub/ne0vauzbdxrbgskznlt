@@ -1,0 +1,22 @@
+.Screen1{
+    display: flex; 
+    width: 100%; 
+    height: 100%; 
+    box-sizing: border-box;  
+    background-color: #FFFFFF;
+    flex-direction: column; 
+    justify-content: flex-start;
+align-items: flex-start;  
+}
+.layer-1-2c1effc99c9f452aa44b14bca3bddb70{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+
+background-color: #FFFFFF;
+flex-grow: 1;height: unset;
+align-self: stretch;
+    {visibility}
+}
